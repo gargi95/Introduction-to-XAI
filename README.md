@@ -34,9 +34,9 @@ The table below lists relevant papers on Explainable AI (XAI), particularly focu
 | ----------------------------------------- | -------------------------- | ---- |
 |[ Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI](https://www.sciencedirect.com/science/article/abs/pii/S1566253519308103)      | Information Fusion| 2020 |
 | [Explainable Artificial Intelligence (XAI) 2.0: A manifesto of open challenges and interdisciplinary research directions](https://www.sciencedirect.com/science/article/pii/S1566253524000794)  | Information Fusion   | 2024|
-| Explainability in Time Series Data         | NeurIPS                    | 2021 |
-| Post-hoc Explanations for LSTM Models      | IEEE Transactions on AI    | 2019 |
-| Symbolic Aggregate Approximation for XAI   | UAI                        | 2022 |
+|       | NeurIPS                    | 2021 |
+|   | IEEE Transactions on AI    | 2019 |
+|   |   | 2022 |
 
 ## 🚀 Getting Started
 
