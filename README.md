@@ -38,6 +38,16 @@ The table below lists relevant papers on Explainable AI (XAI), particularly focu
 |   | IEEE Transactions on AI    | 2019 |
 |   |   | 2022 |
 
+### Table 1: Key Papers on Post Hoc XAI methods 
+| Paper Title                               | Venue                     | Year |
+| ----------------------------------------- | -------------------------- | ---- |
+|    | Information Fusion| 2020 |
+| | Information Fusion   | 2024|
+|       | NeurIPS                    | 2021 |
+|   | IEEE Transactions on AI    | 2019 |
+|   |   | 2022 |
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
