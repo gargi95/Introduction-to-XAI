@@ -23,28 +23,20 @@ This repository includes:
 - Datasets and tools for experimentation, including preprocessing and feature extraction techniques.
 
 
-### Explanation:
-1. **Table of Papers**: The table under "Collection of Papers" lists key papers related to XAI, with columns for the title, venue, and year.
-2. **Structure**: The table is added as a simple markdown table for easy readability and to encourage further contributions to the list.
-3. **Customization**: Feel free to replace the example papers with the actual papers that are relevant to your repository. You can also add more papers over time.
-
 This should now provide a professional and structured README file that covers both your project and a list of reference papers. Let me know if you need any more adjustments!
 
-## 🚀 Getting Started
+## 📚 Collection of Papers
+### Table 1: Key Papers on Explainable AI
 
-### Prerequisites
+The table below lists relevant papers on Explainable AI (XAI), particularly focusing on time series data and post hoc explainability techniques:
 
-Before you can run the code, ensure you have the following dependencies installed:
-
-- Python 3.x
-- TensorFlow or PyTorch
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-
-
-
+| Paper Title                               | Venue                     | Year |
+| ----------------------------------------- | -------------------------- | ---- |
+|[ Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI](https://www.sciencedirect.com/science/article/abs/pii/S1566253519308103)      | Information Fusion| 2020 |
+| [Explainable Artificial Intelligence (XAI) 2.0: A manifesto of open challenges and interdisciplinary research directions](https://www.sciencedirect.com/science/article/pii/S1566253524000794)  | Information Fusion   | 2024|
+| Explainability in Time Series Data         | NeurIPS                    | 2021 |
+| Post-hoc Explanations for LSTM Models      | IEEE Transactions on AI    | 2019 |
+| Symbolic Aggregate Approximation for XAI   | UAI                        | 2022 |
 
 ## 🚀 Getting Started
 
